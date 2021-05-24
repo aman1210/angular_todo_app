@@ -1,0 +1,13 @@
+:host {
+  display: block;
+}
+
+.item {
+  margin-bottom: 10px;
+  cursor: pointer;
+  box-shadow: 2px 2px 5px #777;
+}
+
+.item:hover {
+  box-shadow: 5px 5px 10px #aaa;
+}
